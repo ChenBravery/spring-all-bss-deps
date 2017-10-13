@@ -25,7 +25,7 @@
 
 		<!-- 非 spring-boot 组件 -->
 		<swagger2.version>2.2.2</swagger2.version>
-		<druid.version>1.1.14</druid.version>
+		<druid.version>1.1.4</druid.version>
 		<fastjson.version>1.2.28</fastjson.version>
 		<ojdbc.version>10.2.0.4.0</ojdbc.version>
 		<zookeeper.version>3.4.8</zookeeper.version>
